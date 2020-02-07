@@ -44,3 +44,17 @@ Por favor crea una cuenta de usuario con los siguientes servicios:
 # Sponsors
 
 - [NovaSapiens](https://www.novasapiens.cl)
+
+# Preguntas Frequentes
+
+## Voy a recibir un diploma o badge lugar de finalizar el curso? 
+
+Respuesta: En este momento no, pero en el futuro una version digital usando un proveedor externo.
+
+## Es este curso para mi? 
+
+Respuesta: Este curso es para ti, **SI** no has tenido ninguna experiencia laboral como "SysAdmin", "System Engineer", "Cloud Engineer", "Cloud Developer" o similar. Si tu eres una persona con experiencia en el campo, este curso no complira tus expectativas.  
+
+## Cuales son las expectativas de este curso?
+
+Respuesta: De nuestra parte es ayudar y proveer desde un punto de vista absolutamente practico, el conocimiento necesario para partir una carrera como DevOps/Cloud Engineer. En conjunto, si tus expectativas son el poder trabajar en una empresa multi-cultural e internacional, te podemos ayudar en temas de reclutamiento e inmersion en el extranjero para mejorar tu nivel de Ingles. 
