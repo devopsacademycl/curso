@@ -14,6 +14,14 @@ $ ssh-add .ssh/id_ed25519.pub
 
 > :warning: Recuerda proteger y **nunca** compartir tu llave privada!
 
+# Instalar un administrador de passwords
+
+Es una buena practica de seguridad administrar y gestionar tus passwords con una aplicacion, hay varias disponibles, algunas de pago y otras libres. Puedes usar la que mas gustes, algunas opciones son:
+
+- https://www.enpass.io/
+- https://1password.com/
+- https://keepass.info/ 
+
 # Crear cuenta en GitHub
 
 Para acceder al contenido del curso debes tener una cuenta en github.com. El primer paso es ir al siguiente enlace `https://github.com/join` y completar todos los campos.
